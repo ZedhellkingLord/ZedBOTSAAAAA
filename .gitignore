@@ -63,3 +63,11 @@ Thumbs.db
 .env.*
 !.env.example
 **/*.env.local
+
+node_modules/
+.env
+.env.*
+!.env.example
+bot/appstate.json
+appstate.json
+*.session
